@@ -6,7 +6,7 @@ Bu tasarım deseninde , arka planda çalışan işlemlerin hiç biri kullanıcı
 
 ## Sınıf Diagramı
 
-![Factory Disagn](https://github.com/Serhatcck/Factory-Design/blob/master/FactoryDesignClass.PNG)
+![Factory Disagn](https://github.com/Serhatcck/Facade-Design/blob/master/FacadeClassDiagram.PNG)
 Interaface sınıfımızın yapısı şu şekildedir
    ```java
 public interface RouterOperation{  
